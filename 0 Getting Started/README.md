@@ -31,3 +31,9 @@ print(greet("Alex"))
 * Automation/Scripting (good for small tasks or bots)
 * Data analysis (Pandas, NumPy)
 * Game development (Pygame)
+
+## Running Python files 
+
+```cmd
+python <Your_Filename>.py
+```
