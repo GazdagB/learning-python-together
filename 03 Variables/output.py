@@ -14,5 +14,5 @@ x = 5
 y = 10
 print(x + y)  # Output: 15
 
-print("Hello World")  # Output: Hello World
+print("Hello", "World")  # Output: Hello World
 # This code demonstrates how to assign multiple variables in Python.
